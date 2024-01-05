@@ -20,10 +20,10 @@ Please adhere to this project's `code of conduct`.
 
 ## Screenshots
 
-![![Screenshot (387)](https://github.com/umairimran/2048Game/assets/66002305/392f03b9-9cce-4145-bb5f-afb4a7a8b465)
+![![Screenshot (387)](https://github.com/umairimran/2048Game/assets/66002305/3794d548-6df2-442c-9ca0-ae2d8ea6e5eb)
 ](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
