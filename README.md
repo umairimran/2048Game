@@ -22,7 +22,7 @@ Please adhere to this project's `code of conduct`.
 
 ![Starting Screen](Screenshot (387).png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (387).png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
