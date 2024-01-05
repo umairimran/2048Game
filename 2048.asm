@@ -236,7 +236,7 @@ mov ax,0xb800
 mov es,ax
 ;green
 mov ah,00011010b
-mov al,0x1
+mov al,0x3
 call green
 
 
